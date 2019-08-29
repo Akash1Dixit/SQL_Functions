@@ -7,3 +7,15 @@ Important Points:
 * GROUP BY clause is used with the SELECT statement.
 * In the query, GROUP BY clause is placed after the WHERE clause.
 * In the query, GROUP BY clause is placed before ORDER BY clause if used any
+ 
+#### Syntax:
+```SELECT column1, function_name(column2)
+FROM table_name
+WHERE condition
+GROUP BY column1, column2
+ORDER BY column1, column2;
+
+function_name: Name of the function used for example, SUM() , AVG().
+table_name: Name of the table.
+condition: Condition used.```
+
