@@ -19,4 +19,6 @@ function_name: Name of the function used for example, SUM() , AVG().
 table_name: Name of the table.
 condition: Condition used.
 ```
+### DROP TABLE
 
+The DROP TABLE command deletes a table in the database.
