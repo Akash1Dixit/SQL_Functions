@@ -26,3 +26,9 @@ The DROP TABLE command deletes a table in the database.
 ### TRUNCATE TABLE
 
 The TRUNCATE TABLE command deletes the data inside a table, but not the table itself.
+
+### ALTER TABLE
+
+The ALTER TABLE command adds, deletes, or modifies columns in a table.
+
+The ALTER TABLE command also adds and deletes various constraints in a table.
