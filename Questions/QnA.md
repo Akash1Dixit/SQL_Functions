@@ -22,3 +22,7 @@ condition: Condition used.
 ### DROP TABLE
 
 The DROP TABLE command deletes a table in the database.
+
+### TRUNCATE TABLE
+
+The TRUNCATE TABLE command deletes the data inside a table, but not the table itself.
